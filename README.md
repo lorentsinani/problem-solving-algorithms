@@ -9,18 +9,18 @@ Follow the instructions below to get started with each problem:
 
 ### N Queens Problem (JavaScript)
 
-1. Navigate to the [NQueens directory](problem-solving-algorithms/NQueens).
+1. Navigate to the [NQueens directory](./NQueens).
 2. Implement the A* algorithm according to the specified requirements.
 3. Propose and implement an "admissible" heuristic for optimization.
 
 ### SAT Problem (Generic)
 
-1. Go to the [SATProblem directory](problem-solving-algorithms/SATProblem).
+1. Go to the [SATProblem directory](./SATProblem).
 2. Implement a solver for the SAT problem using the provided formula.
 
 ### Sudoku Solver (Java)
 
-1. Head to the [Sudoku directory](problem-solving-algorithms/Sudoku-CP).
+1. Head to the [Sudoku directory](./Sudoku-CP).
 2. Implement the Sudoku solver using Constraint Programming techniques in Java.
 
 ## Contributing
