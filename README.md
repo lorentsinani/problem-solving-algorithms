@@ -13,7 +13,7 @@ Follow the instructions below to get started with each problem:
 2. Implement the A* algorithm according to the specified requirements.
 3. Propose and implement an "admissible" heuristic for optimization.
 
-## Steps to run the program
+### Steps to run the program
 
 - Node.js: Ensure that you have Node.js installed on your machine.
 - cd NQueens
