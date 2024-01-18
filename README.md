@@ -29,7 +29,7 @@ Feel free to contribute by creating pull requests for improvements, bug fixes, o
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
 
